@@ -1,0 +1,11 @@
+streamlit==1.37.1
+langchain-openai==0.3.19
+mysql-connector-python==9.0.0
+pandas
+numpy
+random
+string
+MIMEText
+MIMEMultipart
+os
+
