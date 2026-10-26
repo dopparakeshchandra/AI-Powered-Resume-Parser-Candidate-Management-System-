@@ -1,0 +1,2 @@
+# AI-Powered-Resume-Parser-Candidate-Management-System-
+AI Resume Profile On boarder A Streamlit app that turns a PDF resume into a structured candidate profile. It extracts text with PyMuPDF, parses it into a fixed JSON schema with GPT-4o-mini, scores the profile for completeness (0-100), stores it in a 6-table MySQL database and emails credentials. Candidates can log in to view and edit their profile.
